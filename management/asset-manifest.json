@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/management/static/js/main.090e72ed.chunk.js",
-    "main.js.map": "/management/static/js/main.090e72ed.chunk.js.map",
+    "main.js": "/management/static/js/main.8ebf2331.chunk.js",
+    "main.js.map": "/management/static/js/main.8ebf2331.chunk.js.map",
     "runtime-main.js": "/management/static/js/runtime-main.878a44d9.js",
     "runtime-main.js.map": "/management/static/js/runtime-main.878a44d9.js.map",
     "static/css/2.7b71b768.chunk.css": "/management/static/css/2.7b71b768.chunk.css",
-    "static/js/2.86ec356e.chunk.js": "/management/static/js/2.86ec356e.chunk.js",
-    "static/js/2.86ec356e.chunk.js.map": "/management/static/js/2.86ec356e.chunk.js.map",
+    "static/js/2.02886a69.chunk.js": "/management/static/js/2.02886a69.chunk.js",
+    "static/js/2.02886a69.chunk.js.map": "/management/static/js/2.02886a69.chunk.js.map",
     "index.html": "/management/index.html",
     "static/css/2.7b71b768.chunk.css.map": "/management/static/css/2.7b71b768.chunk.css.map",
-    "static/js/2.86ec356e.chunk.js.LICENSE.txt": "/management/static/js/2.86ec356e.chunk.js.LICENSE.txt",
+    "static/js/2.02886a69.chunk.js.LICENSE.txt": "/management/static/js/2.02886a69.chunk.js.LICENSE.txt",
     "static/media/index.css": "/management/static/media/roboto-latin-900italic.cb5ad999.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.878a44d9.js",
     "static/css/2.7b71b768.chunk.css",
-    "static/js/2.86ec356e.chunk.js",
-    "static/js/main.090e72ed.chunk.js"
+    "static/js/2.02886a69.chunk.js",
+    "static/js/main.8ebf2331.chunk.js"
   ]
 }

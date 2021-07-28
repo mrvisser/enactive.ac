@@ -5,17 +5,19 @@ void (async () => {
     }
     const a = document.createElement('a');
     a.href = script.src;
-    const host = `${a.protocol}//${a.hostname}`;
+    const host = `${a.protocol}//${a.hostname}${a.port === '' ? '' : `:${a.port}`}`;
     const basePath = a.pathname.split('/').slice(0, -1).join('/');
     const epDocument = new DOMParser().parseFromString(await fetch(`${host}${basePath}/index.html`).then((r) => r.text()), 'text/html');
     const root = document.createElement('div');
     root.id = 'enactive-app-root';
     document.body.appendChild(root);
     epDocument.head.querySelectorAll('link').forEach((ss) => {
-        if (ss.rel === 'stylesheet' && ss.href !== '') {
+        var _a;
+        const href = (_a = ss.getAttribute('href')) !== null && _a !== void 0 ? _a : '';
+        if (ss.rel === 'stylesheet' && href !== '') {
             const link = document.createElement('link');
             link.rel = 'stylesheet';
-            link.href = ss.href.startsWith('/') ? `${host}/${ss.href}` : ss.href;
+            link.href = href.startsWith('/') ? `${host}/${href}` : href;
             document.head.appendChild(link);
         }
     });

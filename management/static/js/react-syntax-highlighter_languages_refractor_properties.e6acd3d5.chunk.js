@@ -1,2 +1,0 @@
-(this["webpackJsonpenactive-management-ui"]=this["webpackJsonpenactive-management-ui"]||[]).push([[106],{624:function(t,e,n){"use strict";function a(t){t.languages.properties={comment:/^[ \t]*[#!].*$/m,"attr-value":{pattern:/(^[ \t]*(?:\\(?:\r\n|[\s\S])|[^\\\s:=])+?(?: *[=:] *| ))(?:\\(?:\r\n|[\s\S])|[^\\\r\n])+/m,lookbehind:!0},"attr-name":/^[ \t]*(?:\\(?:\r\n|[\s\S])|[^\\\s:=])+?(?= *[=:] *| )/m,punctuation:/[=:]/}}t.exports=a,a.displayName="properties",a.aliases=[]}}]);
-//# sourceMappingURL=react-syntax-highlighter_languages_refractor_properties.e6acd3d5.chunk.js.map

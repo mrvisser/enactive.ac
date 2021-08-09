@@ -1,0 +1,2 @@
+(this["webpackJsonpenactive-management-ui"]=this["webpackJsonpenactive-management-ui"]||[]).push([[8],{538:function(e,a,n){"use strict";function t(e){e.languages.arff={comment:/%.*/,string:{pattern:/(["'])(?:\\.|(?!\1)[^\\\r\n])*\1/,greedy:!0},keyword:/@(?:attribute|data|end|relation)\b/i,number:/\b\d+(?:\.\d+)?\b/,punctuation:/[{},]/}}e.exports=t,t.displayName="arff",t.aliases=[]}}]);
+//# sourceMappingURL=react-syntax-highlighter_languages_refractor_arff.8e980b26.chunk.js.map

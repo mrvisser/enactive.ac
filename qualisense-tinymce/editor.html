@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="bundle.js"></script>
+    <script>
+      tinymce.init({
+        height: '100vh',
+        plugins: 'code qualisense',
+        selector:'textarea',
+        toolbar: 'code',
+      });
+    </script>
+  </head>
+  <body>
+    <textarea></textarea>
+    <pre id="result"></pre>
+  </body>
+</html>

@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/embdr/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/embdr/static/js/main.41349edb.chunk.js",
-    "main.js.map": "/embdr/static/js/main.41349edb.chunk.js.map",
+    "main.js": "/embdr/static/js/main.a3d63adb.chunk.js",
+    "main.js.map": "/embdr/static/js/main.a3d63adb.chunk.js.map",
     "runtime-main.js": "/embdr/static/js/runtime-main.c34a08c9.js",
     "runtime-main.js.map": "/embdr/static/js/runtime-main.c34a08c9.js.map",
     "static/css/2.74c27b54.chunk.css": "/embdr/static/css/2.74c27b54.chunk.css",
-    "static/js/2.9f155521.chunk.js": "/embdr/static/js/2.9f155521.chunk.js",
-    "static/js/2.9f155521.chunk.js.map": "/embdr/static/js/2.9f155521.chunk.js.map",
+    "static/js/2.1ed311f4.chunk.js": "/embdr/static/js/2.1ed311f4.chunk.js",
+    "static/js/2.1ed311f4.chunk.js.map": "/embdr/static/js/2.1ed311f4.chunk.js.map",
     "pdf.worker.js": "/embdr/3bc629d5f743a1772f7a775c5f5fb0c1.js",
     "3bc629d5f743a1772f7a775c5f5fb0c1.js.LICENSE.txt": "/embdr/3bc629d5f743a1772f7a775c5f5fb0c1.js.LICENSE.txt",
     "index.html": "/embdr/index.html",
     "static/css/2.74c27b54.chunk.css.map": "/embdr/static/css/2.74c27b54.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/embdr/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.9f155521.chunk.js.LICENSE.txt": "/embdr/static/js/2.9f155521.chunk.js.LICENSE.txt"
+    "static/js/2.1ed311f4.chunk.js.LICENSE.txt": "/embdr/static/js/2.1ed311f4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c34a08c9.js",
     "static/css/2.74c27b54.chunk.css",
-    "static/js/2.9f155521.chunk.js",
+    "static/js/2.1ed311f4.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.41349edb.chunk.js"
+    "static/js/main.a3d63adb.chunk.js"
   ]
 }

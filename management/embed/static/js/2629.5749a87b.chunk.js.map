@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/2629.5749a87b.chunk.js","mappings":"8KAIA,UAFwB,WAAH,OAAS","sources":["app/Embed.tsx"],"sourcesContent":["import React from 'react';\n\nconst Embed: React.FC = () => <div>Nice try!</div>;\n\nexport default Embed;\n"],"names":[],"sourceRoot":""}

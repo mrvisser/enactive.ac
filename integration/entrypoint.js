@@ -12,7 +12,7 @@ void (async () => {
     window.getEnactiveHost =
         () => host;
     const basePath = a.pathname.split('/').slice(0, -1).join('/');
-    const epDocument = new DOMParser().parseFromString(`<html><head><script defer="defer" src="/integration/static/js/main.3e01eb1a.js"></script><link href="/integration/static/css/main.843d04c7.css" rel="stylesheet"></head><body></body></html>`, 'text/html');
+    const epDocument = new DOMParser().parseFromString(`<html><head><script defer="defer" src="/integration/static/js/main.58098f78.js"></script><link href="/integration/static/css/main.843d04c7.css" rel="stylesheet"></head><body></body></html>`, 'text/html');
     const root = document.createElement('div');
     root.id = 'enactive-app-root';
     document.body.appendChild(root);
